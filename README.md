@@ -49,7 +49,6 @@ For simplicity, the multi-class problem is converted into a **binary classificat
 ---
 
 ## Files
-///have to change this isko abhi change krna ha!!!
 - `logistic_regression_glass.ipynb` – Jupyter Notebook containing the full implementation
 - `glass.data` – Dataset file (inside `glass+identification/` folder)
 
